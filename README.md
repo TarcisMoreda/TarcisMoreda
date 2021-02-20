@@ -8,10 +8,10 @@ Sou aluno do segundo ano de Ciência da Computação no IFTM de Ituiutaba. Fiz t
 
 #### Último Projeto:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarcisMoreda&repo=ArtigosBin&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarcisMoreda&repo=ArtigosBin&theme=tokyonight&locale=pt-br&hide_border=true)](hhttps://github.com/TarcisMoreda/ArtigosBin)
 
 #### Github:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarcisMoreda&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarcisMoreda&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/TarcisMoreda)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarcisMoreda&theme=tokyonight&locale=pt-br&hide_border=true)
