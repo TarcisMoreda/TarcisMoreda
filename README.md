@@ -8,7 +8,7 @@ Sou aluno do segundo ano de Ciência da Computação no IFTM de Ituiutaba. Fiz t
 
 #### Último Projeto:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarcisMoreda&repo=2dLearning&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/TarcisMoreda/2dLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarcisMoreda&repo=2dLearning&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/TarcisMoreda/Estruturas-de-Dados-em-C)
 
 #### Github:
 
