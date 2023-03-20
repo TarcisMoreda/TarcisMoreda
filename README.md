@@ -1,15 +1,13 @@
 # Tárcis Moreda
 
-Sou aluno do segundo ano de Ciência da Computação no IFTM de Ituiutaba. Fiz três anos de técnico em informática integrado ao ensino médio. Sempre fui interessado no mundo da computação, especialmente programação.
+Tenho 21 anos e sou aluno do último ano de Ciência da Computação no IFTM de Ituiutaba. Fiz três anos de técnico em informática integrado ao ensino médio. Sempre fui interessado no mundo da computação, especialmente programação.
 
 ## Habilidades:
 
-&emsp;<img height="64" src="Images/C.png"/>
-&emsp;<img height="64" src="Images/C++.png"/>
-&emsp;<img height="64" src="Images/Java.png"/>
-&emsp;<img height="64" src="Images/JS.png"/>
-&emsp;<img height="64" src="Images/Linux.png"/>
-&emsp;<img height="64" src="Images/MySQL.png"/>
+|<img height="64" src="Images/C.png"/>|<img height="64" src="Images/Java.png"/>|<img height="64" src="Images/JS.png"/>|
+|:---:|:---:|:---:|
+|<img height="64" src="Images/C++.png"/>|<img height="64" src="Images/Linux.png"/>|<img height="64" src="Images/SQL.png"/>|
+|<img height="64" src="Images/CS.png"/>|<img height="64" src="Images/Bash.png"/>|<img height="64" src="Images/MySQL.png"/>|
 
 ## Último Projeto:
 
