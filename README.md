@@ -18,5 +18,7 @@ Tenho 21 anos e sou aluno do último ano de Ciência da Computação no IFTM de 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TarcisMoreda&repo=OdeCpp&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/TarcisMoreda/Game-Of-Life-Raylib)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarcisMoreda&theme=tokyonight&locale=pt-br&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarcisMoreda&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/TarcisMoreda)
