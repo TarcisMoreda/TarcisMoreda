@@ -1,6 +1,6 @@
 # Tárcis Moreda Perroni Menino de Melo
 
-Tenho 21 anos e sou aluno do último ano de Ciência da Computação no IFTM de Ituiutaba. Fiz três anos de técnico em informática integrado ao ensino médio. Sempre fui interessado no mundo da computação, especialmente programação.
+Só nos computer.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
